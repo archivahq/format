@@ -60,7 +60,7 @@ Every export declares which version it was produced against. Consumers can rely 
 
 ## Reading the specification
 
-Start with [`spec/draft/README.md`](./spec/draft/README.md) for the current in-development version, or pick a released version folder for a locked, stable specification.
+Start with spec/draft/ for the current in-development version — six specification documents are drafted. See ROADMAP.md for the path to formal v1.0 release, and CHANGELOG.md for what's changed.
 
 Each version contains:
 
